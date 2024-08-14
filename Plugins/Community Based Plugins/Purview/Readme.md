@@ -1,0 +1,2 @@
+This custom plug-in for Copilot for Security helps data and security analysts in their daily jobs. We will replace this plug-in using native technology in the future. The plug-in will allow you to get started using Copilot for Security to better understand your data security posture and potential risks to your data. 
+Please see this link for more information [here](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147).
